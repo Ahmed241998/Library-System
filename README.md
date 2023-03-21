@@ -16,8 +16,8 @@ Banksystem.ipynb
 * Ask user to enter names of the books that are in the libray and the name of the library
 * Ask user to choose between 1, 2, 3, 4
   * 1.Display available books.
-  * 2.Add book to library.
-  * 3.lending books. 
+  * 2.lending books. 
+  * 3.Add book to library.
   * 4.Return book.
  * if the user chooses 1 that means he wants to display available books.
  * if the user chooses 2 that means he wants to add new books to library.
